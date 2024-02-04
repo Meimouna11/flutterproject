@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # documentation_archivage_app
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# flutterproject
+>>>>>>> a71fef1a9b5b6d93213d02fcca71143c3c4839f1
