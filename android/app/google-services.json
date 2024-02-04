@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "318808386247",
+    "project_id": "doc-fire-app",
+    "storage_bucket": "doc-fire-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318808386247:android:ce6bea828b6286e3beece2",
+        "android_client_info": {
+          "package_name": "com.example.documentation_archivage_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKton8Gq_WNwkCkoYGr2Jui1BB9ElhtlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318808386247:android:80c00f0c8338ca96beece2",
+        "android_client_info": {
+          "package_name": "com.example.flutter_doc_arch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKton8Gq_WNwkCkoYGr2Jui1BB9ElhtlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
